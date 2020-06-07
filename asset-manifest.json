@@ -1,16 +1,26 @@
 {
-  "main.css": "/pokefriends/static/css/main.290d054e.chunk.css",
-  "main.js": "/pokefriends/static/js/main.a6a49e18.chunk.js",
-  "main.js.map": "/pokefriends/static/js/main.a6a49e18.chunk.js.map",
-  "runtime~main.js": "/pokefriends/static/js/runtime~main.7ba513ac.js",
-  "runtime~main.js.map": "/pokefriends/static/js/runtime~main.7ba513ac.js.map",
-  "static/css/2.04c8a129.chunk.css": "/pokefriends/static/css/2.04c8a129.chunk.css",
-  "static/js/2.2763de94.chunk.js": "/pokefriends/static/js/2.2763de94.chunk.js",
-  "static/js/2.2763de94.chunk.js.map": "/pokefriends/static/js/2.2763de94.chunk.js.map",
-  "index.html": "/pokefriends/index.html",
-  "precache-manifest.1ffcc38d7a344ff93ac2dc3c10860c93.js": "/pokefriends/precache-manifest.1ffcc38d7a344ff93ac2dc3c10860c93.js",
-  "service-worker.js": "/pokefriends/service-worker.js",
-  "static/css/2.04c8a129.chunk.css.map": "/pokefriends/static/css/2.04c8a129.chunk.css.map",
-  "static/css/main.290d054e.chunk.css.map": "/pokefriends/static/css/main.290d054e.chunk.css.map",
-  "static/media/App.css": "/pokefriends/static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/pokefriends/static/css/main.687c4cd3.chunk.css",
+    "main.js": "/pokefriends/static/js/main.09799d50.chunk.js",
+    "main.js.map": "/pokefriends/static/js/main.09799d50.chunk.js.map",
+    "runtime-main.js": "/pokefriends/static/js/runtime-main.4778db43.js",
+    "runtime-main.js.map": "/pokefriends/static/js/runtime-main.4778db43.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/pokefriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.aee6748b.chunk.js": "/pokefriends/static/js/2.aee6748b.chunk.js",
+    "static/js/2.aee6748b.chunk.js.map": "/pokefriends/static/js/2.aee6748b.chunk.js.map",
+    "index.html": "/pokefriends/index.html",
+    "precache-manifest.e68b1126d96bd3e96cb76d3293f4aa26.js": "/pokefriends/precache-manifest.e68b1126d96bd3e96cb76d3293f4aa26.js",
+    "service-worker.js": "/pokefriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/pokefriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.687c4cd3.chunk.css.map": "/pokefriends/static/css/main.687c4cd3.chunk.css.map",
+    "static/js/2.aee6748b.chunk.js.LICENSE.txt": "/pokefriends/static/js/2.aee6748b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokefriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4778db43.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.aee6748b.chunk.js",
+    "static/css/main.687c4cd3.chunk.css",
+    "static/js/main.09799d50.chunk.js"
+  ]
 }
