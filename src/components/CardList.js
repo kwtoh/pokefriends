@@ -1,14 +1,18 @@
 import React from 'react';
 import Card from './Card';
 
-const CardList = ({ robots }) => {
-	const cardComponent = robots.map((user, i) => {
+const CardList = ({ pokemons }) => {
+	const cardComponent = pokemons.map((user, i) => {
+		let url = pokemons[i].url
+		if (url[url.length - 1] === '/') {
+			url = url.slice(0, -1)
+		}
+		const id = parseInt(url.substring(url.lastIndexOf('/')+1))
 		return (
 			<Card 
-				key={robots[i].id} 
-				id={robots[i].id} 
-				name={robots[i].name} 
-				email={robots[i].email} 
+				key={id}
+				id={id} 
+				name={pokemons[i].name.toUpperCase()} 
 			/>
 		);
 	})
